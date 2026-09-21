@@ -1,8 +1,8 @@
 <img src="./banner.svg" alt="Project Neodevs" width="100%">
 
-## Eleven computer engineering students who decided to build real software
+## Engineers who decided to build real software
 
-We got tired of building basic class projects, so in our second year we started an agency. This organization is the engineering home of **CoeDevs**, a software engineering agency run by our team.
+We got tired of building basic class projects, so as computer engineering students we started an agency. This organization is the engineering home of **CoeDevs**, a software engineering agency run by our team.
 
 Everyone on the team owns a specific layer of the stack. You get a dedicated engineer for the frontend, the backend, the mobile app, and so on, rather than one person stretched across all of it.
 
