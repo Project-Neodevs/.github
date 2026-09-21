@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Project Neodevs">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1210"/>
+      <stop offset="1" stop-color="#060908"/>
+    </linearGradient>
+    <linearGradient id="em" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10b981"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.2" r="0.7">
+      <stop offset="0" stop-color="#10b981" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#10b981" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#10b981" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+  <g fill="none" stroke="#10b981" stroke-opacity="0.45" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M760 250H900L940 210H1080L1120 170H1240"/>
+    <path d="M820 290H960L1000 250H1160"/>
+    <path d="M900 60H1010L1050 100H1180"/>
+  </g>
+  <g fill="#34d399">
+    <circle cx="1240" cy="170" r="5"/>
+    <circle cx="1160" cy="250" r="5"/>
+    <circle cx="1180" cy="100" r="5"/>
+    <circle cx="760" cy="250" r="4" fill-opacity="0.6"/>
+  </g>
+  <text x="80" y="150" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6" fill="#34d399">&lt;/&gt;  BUILD  ·  SHIP  ·  LEARN</text>
+  <text x="76" y="225" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="88" font-weight="800" fill="#ecfdf5">Project <tspan fill="url(#em)">Neodevs</tspan></text>
+  <text x="80" y="272" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="26" fill="#9fb8ad">A student dev team crafting apps, one commit at a time.</text>
+</svg>
