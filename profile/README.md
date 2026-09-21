@@ -1,41 +1,36 @@
-<p align="center">
-  <img src="./banner.svg" alt="Project Neodevs" width="100%">
-</p>
+<img src="./banner.svg" alt="Project Neodevs" width="100%">
 
-<h3 align="center">A student dev team crafting apps, one commit at a time.</h3>
+## Eleven computer engineering students who decided to build real software
 
-<p align="center">
-  <a href="https://coedevs.vercel.app"><img src="https://img.shields.io/badge/Website-coedevs.vercel.app-10b981?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1210" alt="Website"></a>
-  <a href="mailto:Projectneodevcoe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20us-10b981?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1210" alt="Email"></a>
-  <img src="https://img.shields.io/badge/Based%20in-Philippines-10b981?style=for-the-badge&logoColor=white&labelColor=0b1210" alt="Philippines">
-</p>
+We got tired of building basic class projects, so in our second year we started an agency. This organization is the engineering home of **CoeDevs**, a software engineering agency run by our team.
 
----
+Everyone on the team owns a specific layer of the stack. You get a dedicated engineer for the frontend, the backend, the mobile app, and so on, rather than one person stretched across all of it.
 
-## 👋 Who we are
+### How we work
 
-**Project Neodevs** is a team of student developers from the Philippines. We design, build, and ship real apps, and we learn a lot along the way.
+We spend the first week mapping the architecture so execution has no guesswork. A working system usually takes two to three weeks. Larger builds take a couple of months.
 
-## 🛠️ What we do
+### What we build
 
-- 📱 Build web and mobile apps end to end
-- 🎨 Design clean, usable interfaces
-- 🤝 Collaborate, review each other's code, and grow together
-- 🚀 Ship projects we're proud of
+- Web applications
+- Mobile apps
+- Desktop software
+- Backend services and APIs
 
-## 🧰 Tech we like
+Our day-to-day stack is React, TypeScript, Node.js, Firebase, Flutter, Python, Docker and AWS.
 
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-10b981?style=flat-square&logo=javascript&logoColor=white&labelColor=0b1210" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-10b981?style=flat-square&logo=typescript&logoColor=white&labelColor=0b1210" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-10b981?style=flat-square&logo=react&logoColor=white&labelColor=0b1210" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-10b981?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=0b1210" alt="Node.js">
-  <img src="https://img.shields.io/badge/Vercel-10b981?style=flat-square&logo=vercel&logoColor=white&labelColor=0b1210" alt="Vercel">
-  <img src="https://img.shields.io/badge/Git-10b981?style=flat-square&logo=git&logoColor=white&labelColor=0b1210" alt="Git">
-</p>
+### Recent work
 
-## 📬 Get in touch
+| Project | What it is |
+| --- | --- |
+| **ApoTours** | Mobile-first booking platform for Mt. Apo treks, with a multi-step booking flow, email confirmations and an admin dashboard. Next.js, TypeScript, Firebase. |
+| **Shop POS System** | Native desktop point-of-sale for school supply and sari-sari stores, with sales analytics, receipts and role-based access. React, TypeScript, Tauri. |
+| **CafePOS** | Desktop POS and management system for a cafe, built to work offline. Java, JavaFX. |
+| **Peon** | Streaming web app with multi-server failover. React, Node.js, MongoDB. |
 
-Have an idea, question, or want to collaborate? Email [Projectneodevcoe@gmail.com](mailto:Projectneodevcoe@gmail.com) or visit [coedevs.vercel.app](https://coedevs.vercel.app).
+More on the [portfolio](https://coedevs.vercel.app).
 
-<p align="center"><sub>Built with 💚 by Project Neodevs</sub></p>
+### Work with us
+
+Tell us what you want to build and we will reply within 24 hours.
+[coedevs.vercel.app](https://coedevs.vercel.app) or [Projectneodevcoe@gmail.com](mailto:Projectneodevcoe@gmail.com)

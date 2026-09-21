@@ -30,7 +30,7 @@
     <circle cx="1180" cy="100" r="5"/>
     <circle cx="760" cy="250" r="4" fill-opacity="0.6"/>
   </g>
-  <text x="80" y="150" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="6" fill="#34d399">&lt;/&gt;  BUILD  ·  SHIP  ·  LEARN</text>
+  <text x="80" y="140" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="5" fill="#34d399">SOFTWARE ENGINEERING AGENCY</text>
   <text x="76" y="225" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="88" font-weight="800" fill="#ecfdf5">Project <tspan fill="url(#em)">Neodevs</tspan></text>
-  <text x="80" y="272" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="26" fill="#9fb8ad">A student dev team crafting apps, one commit at a time.</text>
+  <text x="80" y="272" font-family="Segoe UI, Inter, Helvetica, Arial, sans-serif" font-size="26" fill="#9fb8ad">Eleven engineering students. One full stack.</text>
 </svg>
