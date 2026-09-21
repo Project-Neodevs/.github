@@ -9,26 +9,15 @@ Project Neodevs is a team of computer engineering students in the Philippines. W
 
 Each of us owns one layer of the stack. A project gets a dedicated engineer for the frontend, another for the backend, another for mobile, rather than one person stretched across all of it.
 
-## How a project runs
+## We work in Agile: short cycles, each ending with a build you can review.
 
-1. **Week one: architecture.** We map the system before writing it, so the build has no guesswork.
-2. **Build.** A working, reliable system usually takes two to three weeks. Larger builds take a couple of months.
-3. **Delivery.** Production-grade software, on the date we agreed.
-
-## What we build
-
-Web applications, mobile apps, desktop software, and the backend services and APIs behind them. Most days we work in React, TypeScript, Node.js, Firebase, Flutter, Python, Docker and AWS.
-
-## Recent work
-
-| Project | What it is | Built with | Links |
-| --- | --- | --- | --- |
-| **ApoTours** | Booking platform for Mt. Apo treks: trip catalog, multi-step booking, email confirmations, admin dashboard | Next.js, TypeScript, Firebase | [Code](https://github.com/Lianhahaha/MountainTourBooking) / [Demo](https://apotour.vercel.app/) |
-| **Shop POS System** | Desktop point of sale for school supply and sari-sari stores: sales dashboard, receipts, role-based access, backup and restore | React, TypeScript, Tauri | [Code](https://github.com/Xyjor/Tito-POS-System) / [Demo](https://xyjor.github.io/Tito-POS-System/) |
-| **CafePOS** | Offline-first point of sale and sales analytics for a cafe | Java, JavaFX | |
-| **Peon** | Streaming web app with multi-server failover | React, Node.js, MongoDB | [Demo](https://owkayy.pages.dev/) |
-
-The full list is on the [portfolio](https://coedevs.vercel.app/portfolio), and the people behind it are on the [team page](https://coedevs.vercel.app/team).
+1. **Plan.** Agree on scope and a delivery date.
+2. **Design.** Map the architecture and the interface.
+3. **Develop.** Build the features for this cycle.
+4. **Test.** Check everything before you see it.
+5. **Deploy.** Put the build on a live link.
+6. **Review.** Collect your feedback for the next cycle.
+7. **Launch.** Release to production once you approve.
 
 ## Start a project
 
