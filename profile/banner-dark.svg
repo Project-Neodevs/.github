@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Project Neodevs. Engineers for every layer of the stack: web, mobile, desktop, backend and APIs." font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <rect width="1280" height="360" rx="14" fill="#07110d"/>
+  <text x="80" y="180" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#ecfdf5">Project Neodevs</text>
+  <text x="82" y="226" font-size="24" fill="#8fb5a5">Engineers for every layer of the stack.</text>
+  <path d="M860 250L1010 295L1160 250V264L1010 309L860 264Z" fill="#065f46"/>
+  <path d="M860 250L1010 205L1160 250L1010 295Z" fill="#059669" stroke="#07110d" stroke-width="1.5"/>
+  <path d="M860 200L1010 245L1160 200V214L1010 259L860 214Z" fill="#059669"/>
+  <path d="M860 200L1010 155L1160 200L1010 245Z" fill="#10b981" stroke="#07110d" stroke-width="1.5"/>
+  <path d="M860 150L1010 195L1160 150V164L1010 209L860 164Z" fill="#10b981"/>
+  <path d="M860 150L1010 105L1160 150L1010 195Z" fill="#34d399" stroke="#07110d" stroke-width="1.5"/>
+  <path d="M860 100L1010 145L1160 100V114L1010 159L860 114Z" fill="#34d399"/>
+  <path d="M860 100L1010 55L1160 100L1010 145Z" fill="#6ee7b7" stroke="#07110d" stroke-width="1.5"/>
+  <path d="M854 107H816" stroke="#2f6b57" stroke-width="1.5"/>
+  <text x="806" y="113" text-anchor="end" font-size="18" fill="#b7d6c9">Web</text>
+  <path d="M854 157H816" stroke="#2f6b57" stroke-width="1.5"/>
+  <text x="806" y="163" text-anchor="end" font-size="18" fill="#b7d6c9">Mobile</text>
+  <path d="M854 207H816" stroke="#2f6b57" stroke-width="1.5"/>
+  <text x="806" y="213" text-anchor="end" font-size="18" fill="#b7d6c9">Desktop</text>
+  <path d="M854 257H816" stroke="#2f6b57" stroke-width="1.5"/>
+  <text x="806" y="263" text-anchor="end" font-size="18" fill="#b7d6c9">Backend and APIs</text>
+</svg>

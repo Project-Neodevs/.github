@@ -1,36 +1,35 @@
-<img src="./banner.svg" alt="Project Neodevs" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./banner-dark.svg">
+  <img src="./banner-light.svg" alt="Project Neodevs. Engineers for every layer of the stack." width="100%">
+</picture>
 
-## Engineers who decided to build real software
+## We got tired of class projects, so we started an agency
 
-We got tired of building basic class projects, so as computer engineering students we started an agency. This organization is the engineering home of **CoeDevs**, a software engineering agency run by our team.
+Project Neodevs is a team of computer engineering students in the Philippines. We run [CoeDevs](https://coedevs.vercel.app), a software engineering agency, and this organization is where its code lives.
 
-Everyone on the team owns a specific layer of the stack. You get a dedicated engineer for the frontend, the backend, the mobile app, and so on, rather than one person stretched across all of it.
+Each of us owns one layer of the stack. A project gets a dedicated engineer for the frontend, another for the backend, another for mobile, rather than one person stretched across all of it.
 
-### How we work
+## How a project runs
 
-We spend the first week mapping the architecture so execution has no guesswork. A working system usually takes two to three weeks. Larger builds take a couple of months.
+1. **Week one: architecture.** We map the system before writing it, so the build has no guesswork.
+2. **Build.** A working, reliable system usually takes two to three weeks. Larger builds take a couple of months.
+3. **Delivery.** Production-grade software, on the date we agreed.
 
-### What we build
+## What we build
 
-- Web applications
-- Mobile apps
-- Desktop software
-- Backend services and APIs
+Web applications, mobile apps, desktop software, and the backend services and APIs behind them. Most days we work in React, TypeScript, Node.js, Firebase, Flutter, Python, Docker and AWS.
 
-Our day-to-day stack is React, TypeScript, Node.js, Firebase, Flutter, Python, Docker and AWS.
+## Recent work
 
-### Recent work
+| Project | What it is | Built with | Links |
+| --- | --- | --- | --- |
+| **ApoTours** | Booking platform for Mt. Apo treks: trip catalog, multi-step booking, email confirmations, admin dashboard | Next.js, TypeScript, Firebase | [Code](https://github.com/Lianhahaha/MountainTourBooking) / [Demo](https://apotour.vercel.app/) |
+| **Shop POS System** | Desktop point of sale for school supply and sari-sari stores: sales dashboard, receipts, role-based access, backup and restore | React, TypeScript, Tauri | [Code](https://github.com/Xyjor/Tito-POS-System) / [Demo](https://xyjor.github.io/Tito-POS-System/) |
+| **CafePOS** | Offline-first point of sale and sales analytics for a cafe | Java, JavaFX | |
+| **Peon** | Streaming web app with multi-server failover | React, Node.js, MongoDB | [Demo](https://owkayy.pages.dev/) |
 
-| Project | What it is |
-| --- | --- |
-| **ApoTours** | Mobile-first booking platform for Mt. Apo treks, with a multi-step booking flow, email confirmations and an admin dashboard. Next.js, TypeScript, Firebase. |
-| **Shop POS System** | Native desktop point-of-sale for school supply and sari-sari stores, with sales analytics, receipts and role-based access. React, TypeScript, Tauri. |
-| **CafePOS** | Desktop POS and management system for a cafe, built to work offline. Java, JavaFX. |
-| **Peon** | Streaming web app with multi-server failover. React, Node.js, MongoDB. |
+The full list is on the [portfolio](https://coedevs.vercel.app/portfolio), and the people behind it are on the [team page](https://coedevs.vercel.app/team).
 
-More on the [portfolio](https://coedevs.vercel.app).
+## Start a project
 
-### Work with us
-
-Tell us what you want to build and we will reply within 24 hours.
-[coedevs.vercel.app](https://coedevs.vercel.app) or [Projectneodevcoe@gmail.com](mailto:Projectneodevcoe@gmail.com)
+Tell us what you want to build at [projectneodevcoe@gmail.com](mailto:projectneodevcoe@gmail.com). We reply within 24 hours.
