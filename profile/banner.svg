@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Project Neodevs. Engineers for every layer of the stack: web, mobile, desktop, backend and APIs." font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#121b18"/>
+      <stop offset="1" stop-color="#0d1311"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="1010" cy="185" r="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2a5a4a" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#2a5a4a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="360" rx="14" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="14" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="13.5" fill="none" stroke="#1f2b27"/>
+  <text x="80" y="180" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#e3eee9">Project Neodevs</text>
+  <text x="82" y="226" font-size="24" fill="#86a397">Engineers for every layer of the stack.</text>
+  <path d="M860 250L1010 295L1160 250V264L1010 309L860 264Z" fill="#335c4e"/>
+  <path d="M860 250L1010 205L1160 250L1010 295Z" fill="#4e8b77" stroke="#0f1614" stroke-width="1.5"/>
+  <path d="M860 200L1010 245L1160 200V214L1010 259L860 214Z" fill="#41725f"/>
+  <path d="M860 200L1010 155L1160 200L1010 245Z" fill="#66a690" stroke="#0f1614" stroke-width="1.5"/>
+  <path d="M860 150L1010 195L1160 150V164L1010 209L860 164Z" fill="#528a76"/>
+  <path d="M860 150L1010 105L1160 150L1010 195Z" fill="#83bfa9" stroke="#0f1614" stroke-width="1.5"/>
+  <path d="M860 100L1010 145L1160 100V114L1010 159L860 114Z" fill="#679f8b"/>
+  <path d="M860 100L1010 55L1160 100L1010 145Z" fill="#a6d6c4" stroke="#0f1614" stroke-width="1.5"/>
+  <path d="M854 107H816" stroke="#2f4740" stroke-width="1.5"/>
+  <text x="806" y="113" text-anchor="end" font-size="18" fill="#a3bbb1">Web</text>
+  <path d="M854 157H816" stroke="#2f4740" stroke-width="1.5"/>
+  <text x="806" y="163" text-anchor="end" font-size="18" fill="#a3bbb1">Mobile</text>
+  <path d="M854 207H816" stroke="#2f4740" stroke-width="1.5"/>
+  <text x="806" y="213" text-anchor="end" font-size="18" fill="#a3bbb1">Desktop</text>
+  <path d="M854 257H816" stroke="#2f4740" stroke-width="1.5"/>
+  <text x="806" y="263" text-anchor="end" font-size="18" fill="#a3bbb1">Backend and APIs</text>
+</svg>
